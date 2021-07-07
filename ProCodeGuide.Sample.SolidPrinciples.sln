@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProCodeGuide.Sample.SolidPrinciples", "ProCodeGuide.Sample.SolidPrinciples\ProCodeGuide.Sample.SolidPrinciples.csproj", "{DEECAC7D-5274-47C3-970B-51A557EAA723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCodeGuide.Sample.Solid.ConsoleApp", "ProCodeGuide.Sample.Solid.ConsoleApp\ProCodeGuide.Sample.Solid.ConsoleApp.csproj", "{ACB93077-65FF-4E8F-B883-2A7010B6596A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEECAC7D-5274-47C3-970B-51A557EAA723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEECAC7D-5274-47C3-970B-51A557EAA723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEECAC7D-5274-47C3-970B-51A557EAA723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEECAC7D-5274-47C3-970B-51A557EAA723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB93077-65FF-4E8F-B883-2A7010B6596A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB93077-65FF-4E8F-B883-2A7010B6596A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB93077-65FF-4E8F-B883-2A7010B6596A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB93077-65FF-4E8F-B883-2A7010B6596A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E683D80D-CB50-4217-BE67-2E028AFEBDC7}
+	EndGlobalSection
+EndGlobal
